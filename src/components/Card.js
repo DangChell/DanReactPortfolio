@@ -16,7 +16,7 @@ class ProjectCard extends Component {
           </Card.Subtitle>
           <Card.Text>
             Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            bulk of the card's content. card text
           </Card.Text>
           <Card.Link href="#">See Project</Card.Link>
           <Card.Link href="#">See Code</Card.Link>
