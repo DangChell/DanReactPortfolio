@@ -35,7 +35,7 @@ class CardGroup extends Component {
               src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t1.0-9/115772182_10158278516435792_8509649749366949457_n.jpg?_nc_cat=103&_nc_sid=8bfeb9&_nc_ohc=VQYeTGRgJbMAX-1EveG&_nc_ht=scontent.ffsd3-1.fna&oh=9d13467f22fbf13fbfc95845acc104a7&oe=5F842B5B"
             />
             <Card.Body>
-              <Card.Title>Card title</Card.Title>
+              <Card.Title>Dev Marketplace</Card.Title>
               <Card.Text>
                 This is a wider card with supporting text below as a natural
                 lead-in to additional content. This card has even longer content
@@ -44,7 +44,9 @@ class CardGroup extends Component {
             </Card.Body>
             <Card.Footer>
               <Card.Link href="#">Visit Project</Card.Link>
-              <Card.Link href="#">See Code</Card.Link>
+              <Card.Link href="https://github.com/Porcupine-Software-Solutions/devMarketplace">
+                See Code
+              </Card.Link>
             </Card.Footer>
           </Card>
           <Card>
