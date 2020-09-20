@@ -1,21 +1,22 @@
 import React, { Component } from 'react';
-import Header from './Header.js';
-import ProjectCar from './Carousel.js';
-import CardGroup from './CardGroup.js';
+import { render } from 'react-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { LinkContainer } from 'react-router-bootstrap';
+import ProjectCard from './Card.js';
+import Home from './Home.js';
+import Error from './Error.js';
 
 class App extends Component {
   render() {
     return (
-      <div>
-        <Header />
-        <CardGroup />
-        <link
-          rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
-          crossorigin="anonymous"
-        />
-      </div>
+      <main>
+        <Switch>
+          <Route path="/" component={Home} exact />
+          <Route path="/projects" component={ProjectCard} />
+          {/* <Route path="/resume" component={Resume} /> */}
+          <Route component={Error} />
+        </Switch>
+      </main>
     );
   }
 }
