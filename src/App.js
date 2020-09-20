@@ -2,11 +2,12 @@ import React, { Component } from 'react';
 import { render } from 'react-dom';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import { LinkContainer } from 'react-router-bootstrap';
-import ProjectCard from './Card.js';
-import Home from './Home.js';
-import Error from './Error.js';
-import Header from './Header.js';
-import Resume from './Resume.js';
+import ProjectCard from './components/Card.js';
+import Home from './components/Home.js';
+import Error from './components/Error.js';
+import Header from './components/Header.js';
+import Resume from './components/Resume.js';
+import './styles/styles.css';
 
 class App extends Component {
   render() {
