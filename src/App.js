@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import { LinkContainer } from 'react-router-bootstrap';
 import ProjectCard from './components/Card.js';
-import Home from './components/Home.js';
+import Home from './containers/HomeContainer.js';
 import Error from './components/Error.js';
 import Header from './components/Header.js';
 import Resume from './components/Resume.js';

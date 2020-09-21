@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
 import ResumeCards from './ResumeCards.js';
-// import '../styles/styles.css';
 
 class Resume extends Component {
   render() {
     return (
-      <div class="bodyContainer">
+      <div class="resumeContainer">
         <div class="leftCard">
-          <h1>Company</h1>
+          <h1>Open Source Software Engineer</h1>
           <p>
             I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
             raw denim, hammock slow-carb fixie pabst small batch banh mi retro
@@ -20,7 +19,7 @@ class Resume extends Component {
           </p>
         </div>
         <div class="rightCard">
-          <h1>Company</h1>
+          <h1>Strider Bikes</h1>
           <p>
             I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
             raw denim, hammock slow-carb fixie pabst small batch banh mi retro
@@ -33,7 +32,7 @@ class Resume extends Component {
           </p>
         </div>
         <div class="leftCard">
-          <h1>Company</h1>
+          <h1>National Outdoor Leadership School</h1>
           <p>
             I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
             raw denim, hammock slow-carb fixie pabst small batch banh mi retro
@@ -46,7 +45,7 @@ class Resume extends Component {
           </p>
         </div>
         <div class="rightCard">
-          <h1>Company</h1>
+          <h1>Fulbright</h1>
           <p>
             I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
             raw denim, hammock slow-carb fixie pabst small batch banh mi retro
@@ -59,7 +58,7 @@ class Resume extends Component {
           </p>
         </div>
         <div class="leftCard">
-          <h1>Company</h1>
+          <h1>California Lutheran University</h1>
           <p>
             I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
             raw denim, hammock slow-carb fixie pabst small batch banh mi retro

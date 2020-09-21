@@ -1,19 +1,29 @@
-.bodyContainer {
+body {
+}
+
+.cardDeckContainer {
+  width: 95vw;
+  margin: 25px auto;
+}
+/* resume page styling */
+
+.resumeContainer {
+  display: flex;
+  flex-direction: column;
   width: 90%;
   margin: auto;
 }
 h1 {
-  color: red;
+  color: darkcyan;
 }
 .rightCard {
-  float: right;
-  width: 51%;
+  align-self: flex-end;
+  width: 50vw;
   height: auto;
-  outline: 0px 5px 0px 0px solid grey;
 }
 
 .leftCard {
-  float: left;
-  width: 51%;
+  align-self: flex-start;
+  width: 50vw;
   height: auto;
 }

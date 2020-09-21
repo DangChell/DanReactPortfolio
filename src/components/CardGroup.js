@@ -4,7 +4,7 @@ import { Card, CardDeck } from 'react-bootstrap';
 class CardGroup extends Component {
   render() {
     return (
-      <div>
+      <div class="cardDeckContainer">
         <CardDeck>
           <Card>
             <Card.Img
