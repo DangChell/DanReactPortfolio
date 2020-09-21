@@ -9,8 +9,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <ProjectCar />
-
+        <ProjectCar></ProjectCar>
         <CardGroup />
       </div>
     );

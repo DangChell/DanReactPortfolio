@@ -9,30 +9,29 @@ class Resume extends Component {
           <h1>Open Source Software Engineer</h1>
           <p>
             As an open source software developer, I've built developer tools and
-            client facing projects primarly using React, Node, and both SQL and
-            NoSQL databases. I love getting to use my creativity to build an
-            intuitive front end, and the rush I feel after successfully setting
-            up a back end. I was inspired to pursue software engineering after
-            using many intersting applications in my previous roles, and
-            dabbling in front end development through content managment systems.
-            My favorite aspect of software engineering has been working with
-            other engineers and the collaborative nature of the open source
-            community.
+            web applications primarly using React, Node, and both SQL and NoSQL
+            databases. I love getting to use my creativity to build an intuitive
+            front end, and the rush I feel after successfully setting up a back
+            end. I was inspired to pursue software engineering after using many
+            intersting applications in my previous roles, and dabbling in front
+            end development through content managment systems. My favorite
+            aspect of software engineering has been working with other engineers
+            and the collaborative nature of the open source community.
           </p>
         </div>
         <div class="rightCard">
           <h1>Strider Bikes</h1>
           <p>
             My role at Strider Bikes included both domestic and international
-            functions. Within the United States, I was responsible for public
+            responsibilities. Within the United States, I was handled public
             relations, responding to journalist inquiries, writing press
             releases, and coordinating work with influencers. This work resulted
             in millions of impressions in traditional and online media.
-            Internationally, Strider hired me to oversee their expansion into
-            India, Germany, France, Spain and the Netherlands. In this role I
-            drafted and oversaw marketing strategy and budget for product
-            launches and worked with local PR firms to ensure our work resonated
-            with local communities.
+            Internationally, I oversaw Strider's expansion into India, Germany,
+            France, Spain and the Netherlands. In this role I drafted and
+            implemented marketing strategy and budget for product launches. I
+            also worked with local PR firms to ensure our work resonated in
+            their communities.
           </p>
         </div>
         <div class="leftCard">
@@ -47,7 +46,7 @@ class Resume extends Component {
             with the NOLS creative team to created new content for potential
             students. I also had the oppurtunty to take a NOLS course, where I
             spent two weeks backcountry splitboarding and sleeping in snow
-            shelters in the Tetons.
+            shelters in the Teton Range.
           </p>
         </div>
         <div class="rightCard">

@@ -7,31 +7,31 @@ class ProjectCar extends Component {
       <Carousel>
         <Carousel.Item>
           <img
-            className="d-block w-100"
-            src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t1.0-9/115772182_10158278516435792_8509649749366949457_n.jpg?_nc_cat=103&_nc_sid=8bfeb9&_nc_ohc=VQYeTGRgJbMAX-1EveG&_nc_ht=scontent.ffsd3-1.fna&oh=9d13467f22fbf13fbfc95845acc104a7&oe=5F842B5B"
-            alt="First slide"
+            className="d-block w-100 h-70"
+            src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t1.0-9/10408599_10152858149965610_4289492839336708001_n.jpg?_nc_cat=109&_nc_sid=e3f864&_nc_ohc=LpuY0_MWH6EAX8JtECX&_nc_ht=scontent.ffsd3-1.fna&oh=201c1878d1bad4c4ce41dc9027d5edf1&oe=5F8F7742"
+            alt="Landscape shot from Sky Ranch"
           />
           <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h3>Welcome to DangChell</h3>
+            <p></p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w-100"
-            src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t1.0-9/46171953_10101557208075496_3501406521093259264_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=GNvXieV0SD0AX_3mT0F&_nc_ht=scontent.ffsd3-1.fna&oh=d51b306a3c53167501c0eef28b5715a8&oe=5F82A125"
+            className="d-block w-100 h-70"
+            src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t31.0-8/12068420_10153619056250610_6323858538494194349_o.jpg?_nc_cat=101&_nc_sid=19026a&_nc_ohc=ou1cRBFBcU8AX-rMvKo&_nc_ht=scontent.ffsd3-1.fna&oh=3302369b2271f8bbea6ecf4bbb35114f&oe=5F8C0377"
             alt="Third slide"
           />
 
           <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h3>Dan Chell's Portfolio Website</h3>
+            <p></p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item>
+        {/* <Carousel.Item>
           <img
-            className="d-block w-100"
-            src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t31.0-8/14991380_10154589765635610_7104761101112099960_o.jpg?_nc_cat=104&_nc_sid=cdbe9c&_nc_ohc=AjzXQbpCAEAAX-Hf_cJ&_nc_ht=scontent.ffsd3-1.fna&oh=d19b2bd9084c2c0071d26106578e44ad&oe=5F831DB5"
+            className="d-block w-100 h-70"
+            src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t31.0-8/12314348_10153741667110610_518310565667677966_o.jpg?_nc_cat=101&_nc_sid=19026a&_nc_ohc=sbcCoykStUMAX9FrNmr&_nc_ht=scontent.ffsd3-1.fna&oh=fbcb0e6a0995fa55d7aa9d8050d93273&oe=5F8E023E"
             alt="Third slide"
           />
 
@@ -41,7 +41,7 @@ class ProjectCar extends Component {
               Praesent commodo cursus magna, vel scelerisque nisl consectetur.
             </p>
           </Carousel.Caption>
-        </Carousel.Item>
+        </Carousel.Item> */}
       </Carousel>
     );
   }

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { render } from 'react-dom';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import { LinkContainer } from 'react-router-bootstrap';
-import ProjectCard from './components/Card.js';
+import CardGroup from './components/CardGroup.js';
 import Home from './containers/HomeContainer.js';
 import Error from './components/Error.js';
 import Header from './components/Header.js';
@@ -16,7 +16,7 @@ class App extends Component {
         <Header />
         <Switch>
           <Route path="/" component={Home} exact />
-          <Route path="/projects" component={ProjectCard} />
+          <Route path="/projects" component={CardGroup} />
           <Route path="/resume" component={Resume} />
           <Route component={Error} />
         </Switch>
