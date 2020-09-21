@@ -8,79 +8,80 @@ class Resume extends Component {
         <div class="leftCard">
           <h1>Open Source Software Engineer</h1>
           <p>
-            I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
-            raw denim, hammock slow-carb fixie pabst small batch banh mi retro
-            hell of. Four dollar toast godard unicorn, selvage hell of banh mi
-            wayfarers. Single-origin coffee neutra kinfolk palo santo glossier
-            brunch adaptogen hot chicken edison bulb enamel pin blue bottle cray
-            butcher. Narwhal gochujang copper mug yr hammock ennui sriracha.
-            Live-edge bespoke craft beer, succulents ugh bushwick tumblr tumeric
-            chia.
+            As an open source software developer, I've built developer tools and
+            client facing projects primarly using React, Node, and both SQL and
+            NoSQL databases. I love getting to use my creativity to build an
+            intuitive front end, and the rush I feel after successfully setting
+            up a back end. I was inspired to pursue software engineering after
+            using many intersting applications in my previous roles, and
+            dabbling in front end development through content managment systems.
+            My favorite aspect of software engineering has been working with
+            other engineers and the collaborative nature of the open source
+            community.
           </p>
         </div>
         <div class="rightCard">
           <h1>Strider Bikes</h1>
           <p>
-            I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
-            raw denim, hammock slow-carb fixie pabst small batch banh mi retro
-            hell of. Four dollar toast godard unicorn, selvage hell of banh mi
-            wayfarers. Single-origin coffee neutra kinfolk palo santo glossier
-            brunch adaptogen hot chicken edison bulb enamel pin blue bottle cray
-            butcher. Narwhal gochujang copper mug yr hammock ennui sriracha.
-            Live-edge bespoke craft beer, succulents ugh bushwick tumblr tumeric
-            chia.
+            My role at Strider Bikes included both domestic and international
+            functions. Within the United States, I was responsible for public
+            relations, responding to journalist inquiries, writing press
+            releases, and coordinating work with influencers. This work resulted
+            in millions of impressions in traditional and online media.
+            Internationally, Strider hired me to oversee their expansion into
+            India, Germany, France, Spain and the Netherlands. In this role I
+            drafted and oversaw marketing strategy and budget for product
+            launches and worked with local PR firms to ensure our work resonated
+            with local communities.
           </p>
         </div>
         <div class="leftCard">
           <h1>National Outdoor Leadership School</h1>
           <p>
-            I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
-            raw denim, hammock slow-carb fixie pabst small batch banh mi retro
-            hell of. Four dollar toast godard unicorn, selvage hell of banh mi
-            wayfarers. Single-origin coffee neutra kinfolk palo santo glossier
-            brunch adaptogen hot chicken edison bulb enamel pin blue bottle cray
-            butcher. Narwhal gochujang copper mug yr hammock ennui sriracha.
-            Live-edge bespoke craft beer, succulents ugh bushwick tumblr tumeric
-            chia.
+            During my time at NOLS I developed landing pages and automated
+            marketing campagins to educate prospective students about NOLS
+            courses. In my role I also traveled to events throughout the US
+            three months out of the year, building relationships with potential
+            students and their faimilies at gap year fairs and industry
+            conferences. I trained and mentored new representatives, and worked
+            with the NOLS creative team to created new content for potential
+            students. I also had the oppurtunty to take a NOLS course, where I
+            spent two weeks backcountry splitboarding and sleeping in snow
+            shelters in the Tetons.
           </p>
         </div>
         <div class="rightCard">
-          <h1>Fulbright</h1>
+          <h1>Fulbright Program</h1>
           <p>
-            I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
-            raw denim, hammock slow-carb fixie pabst small batch banh mi retro
-            hell of. Four dollar toast godard unicorn, selvage hell of banh mi
-            wayfarers. Single-origin coffee neutra kinfolk palo santo glossier
-            brunch adaptogen hot chicken edison bulb enamel pin blue bottle cray
-            butcher. Narwhal gochujang copper mug yr hammock ennui sriracha.
-            Live-edge bespoke craft beer, succulents ugh bushwick tumblr tumeric
-            chia.
+            As a Fulbright English Teaching Assistant, I taught English to
+            students in the English Pedagogy program at a Otgontenger
+            University. I participated in public speaking and volunteer events
+            with the United States Embassy in Ulaanbaatar. In my free time I
+            attended art classes at Anima Art Studio, and boxing sessions at a
+            local gym.
           </p>
         </div>
         <div class="leftCard">
-          <h1>California Lutheran University</h1>
+          <h1>United States Senate</h1>
           <p>
-            I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
-            raw denim, hammock slow-carb fixie pabst small batch banh mi retro
-            hell of. Four dollar toast godard unicorn, selvage hell of banh mi
-            wayfarers. Single-origin coffee neutra kinfolk palo santo glossier
-            brunch adaptogen hot chicken edison bulb enamel pin blue bottle cray
-            butcher. Narwhal gochujang copper mug yr hammock ennui sriracha.
-            Live-edge bespoke craft beer, succulents ugh bushwick tumblr tumeric
-            chia.
+            As an intern in the US Senate, I spent my time communicating with
+            constituents over the phone and via email. I compiled relevant press
+            clippings for the senator and policy team, and attended senate
+            hearings as often as I could. I also enjoyed giving tours of the
+            Capitol building in both English and German.
           </p>
         </div>
         <div class="rightCard">
-          <h1>Company</h1>
+          <h1>California Lutheran University</h1>
           <p>
-            I'm baby twee affogato cred banh mi. Godard dreamcatcher fanny pack
-            raw denim, hammock slow-carb fixie pabst small batch banh mi retro
-            hell of. Four dollar toast godard unicorn, selvage hell of banh mi
-            wayfarers. Single-origin coffee neutra kinfolk palo santo glossier
-            brunch adaptogen hot chicken edison bulb enamel pin blue bottle cray
-            butcher. Narwhal gochujang copper mug yr hammock ennui sriracha.
-            Live-edge bespoke craft beer, succulents ugh bushwick tumblr tumeric
-            chia.
+            My collegiate experience extended across continents and academic
+            interest areas. I researched social capital in the Mongolian and
+            Armenian communities and spent the fall of my junior year
+            researching in Kampala, Uganda. My coursework included work many
+            political science and anthropology clases, as well as work in
+            graphic design, statistics, and environmental science. I also had a
+            number of jobs on campus, first as a librarian, later as the Global
+            Studies Department Assistant.
           </p>
         </div>
       </div>

@@ -1,5 +1,6 @@
 {
   "name": "reactwebpacktemplate",
+  "homepage": "http://dangchell.com/",
   "version": "1.0.0",
   "description": "Boilerplate for react apps",
   "main": "index.js",
