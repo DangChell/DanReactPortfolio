@@ -9,12 +9,12 @@ class Resume extends Component {
           <h1>Open Source Software Engineer</h1>
           <p>
             As an open source software developer, I've built developer tools and
-            web applications primarly using React, Node, and both SQL and NoSQL
+            web applications primarily using React, Node, and both SQL and NoSQL
             databases. I love getting to use my creativity to build an intuitive
             front end, and the rush I feel after successfully setting up a back
             end. I was inspired to pursue software engineering after using many
-            intersting applications in my previous roles, and dabbling in front
-            end development through content managment systems. My favorite
+            interesting applications in my previous roles, and building front
+            end landing pages using content management systems. My favorite
             aspect of software engineering has been working with other engineers
             and the collaborative nature of the open source community.
           </p>
@@ -23,7 +23,7 @@ class Resume extends Component {
           <h1>Strider Bikes</h1>
           <p>
             My role at Strider Bikes included both domestic and international
-            responsibilities. Within the United States, I was handled public
+            responsibilities. Within the United States, I handled public
             relations, responding to journalist inquiries, writing press
             releases, and coordinating work with influencers. This work resulted
             in millions of impressions in traditional and online media.
@@ -38,13 +38,13 @@ class Resume extends Component {
           <h1>National Outdoor Leadership School</h1>
           <p>
             During my time at NOLS I developed landing pages and automated
-            marketing campagins to educate prospective students about NOLS
+            marketing campaigns to educate prospective students about NOLS
             courses. In my role I also traveled to events throughout the US
             three months out of the year, building relationships with potential
-            students and their faimilies at gap year fairs and industry
+            students and their families at gap year fairs and industry
             conferences. I trained and mentored new representatives, and worked
-            with the NOLS creative team to created new content for potential
-            students. I also had the oppurtunty to take a NOLS course, where I
+            with the NOLS creative team to create new content for potential
+            students. I also had the opportunity to take a NOLS course, where I
             spent two weeks backcountry splitboarding and sleeping in snow
             shelters in the Teton Range.
           </p>
@@ -53,11 +53,10 @@ class Resume extends Component {
           <h1>Fulbright Program</h1>
           <p>
             As a Fulbright English Teaching Assistant, I taught English to
-            students in the English Pedagogy program at a Otgontenger
-            University. I participated in public speaking and volunteer events
-            with the United States Embassy in Ulaanbaatar. In my free time I
-            attended art classes at Anima Art Studio, and boxing sessions at a
-            local gym.
+            students in the English Pedagogy program at Otgontenger University.
+            I participated in public speaking and volunteer events with the
+            United States Embassy in Ulaanbaatar. In my free time I attended art
+            classes at Anima Art Studio, and boxing sessions at a local gym.
           </p>
         </div>
         <div class="leftCard">
@@ -76,8 +75,8 @@ class Resume extends Component {
             My collegiate experience extended across continents and academic
             interest areas. I researched social capital in the Mongolian and
             Armenian communities and spent the fall of my junior year
-            researching in Kampala, Uganda. My coursework included work many
-            political science and anthropology clases, as well as work in
+            researching in Kampala, Uganda. My coursework included many
+            political science and anthropology classes, as well as work in
             graphic design, statistics, and environmental science. I also had a
             number of jobs on campus, first as a librarian, later as the Global
             Studies Department Assistant.

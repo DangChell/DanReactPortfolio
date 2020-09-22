@@ -18,7 +18,7 @@ class Header extends Component {
               Projects
             </Nav.Link>
             <Nav.Link as={Link} to="/resume">
-              Resume
+              About
             </Nav.Link>
             <Nav.Link href="https://github.com/DangChell" target="_blank">
               <FontAwesomeIcon icon={faGithub} />
