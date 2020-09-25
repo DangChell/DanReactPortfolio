@@ -7,8 +7,8 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 class Header extends Component {
   render() {
     return (
-      <Navbar bg="light" expand="lg">
-        <Navbar.Brand as={Link} to="/">
+      <Navbar bg="light" expand="lg" class="header">
+        <Navbar.Brand id="logo" as={Link} to="/">
           DangChell
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

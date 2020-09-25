@@ -12,7 +12,7 @@ class ProjectCar extends Component {
             alt="Landscape shot from Sky Ranch"
           />
           <Carousel.Caption>
-            <h3>Welcome to DangChell</h3>
+            <h1>Welcome to DangChell</h1>
             <p></p>
           </Carousel.Caption>
         </Carousel.Item>
@@ -24,7 +24,7 @@ class ProjectCar extends Component {
           />
 
           <Carousel.Caption>
-            <h3>Dan Chell's Portfolio Website</h3>
+            <h1>Dan Chell's Portfolio Website</h1>
             <p></p>
           </Carousel.Caption>
         </Carousel.Item>

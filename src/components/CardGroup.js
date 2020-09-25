@@ -12,7 +12,9 @@ class CardGroup extends Component {
               src="https://camo.githubusercontent.com/b716eb1b6d971a7c0cdff77baa13d771ff340d56/68747470733a2f2f692e696d6775722e636f6d2f4a6d30423938662e706e67"
             /> */}
             <Card.Body>
-              <Card.Title>TopoGraphQL</Card.Title>
+              <Card.Title>
+                <h4>TopoGraphQL</h4>
+              </Card.Title>
               <Card.Text>
                 TopoGraphQL is an open-source GraphQL IDE, schema visualizer,
                 and endpoint analytics tool. Inpsired by GraphiQL,TopoGraphQL
@@ -36,10 +38,13 @@ class CardGroup extends Component {
               </Card.Text>
             </Card.Body>
             <Card.Footer>
-              <Card.Link href="http://topographql.com/">
+              <Card.Link class="link" href="http://topographql.com/">
                 Visit Project
               </Card.Link>
-              <Card.Link href="https://github.com/topographql/topographql">
+              <Card.Link
+                class="link"
+                href="https://github.com/topographql/topographql"
+              >
                 See Code
               </Card.Link>
             </Card.Footer>
@@ -50,7 +55,9 @@ class CardGroup extends Component {
               src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t1.0-9/115772182_10158278516435792_8509649749366949457_n.jpg?_nc_cat=103&_nc_sid=8bfeb9&_nc_ohc=VQYeTGRgJbMAX-1EveG&_nc_ht=scontent.ffsd3-1.fna&oh=9d13467f22fbf13fbfc95845acc104a7&oe=5F842B5B"
             /> */}
             <Card.Body>
-              <Card.Title>Dev Marketplace</Card.Title>
+              <Card.Title>
+                <h4>Dev Marketplace</h4>
+              </Card.Title>
               <Card.Text>
                 Dev Marketplace is an online portal for software engineers and
                 employers. It features a job postings board, along with video
@@ -71,7 +78,10 @@ class CardGroup extends Component {
             </Card.Body>
             <Card.Footer>
               {/* <Card.Link href="#">Visit Project</Card.Link> */}
-              <Card.Link href="https://github.com/Porcupine-Software-Solutions/devMarketplace">
+              <Card.Link
+                class="link"
+                href="https://github.com/Porcupine-Software-Solutions/devMarketplace"
+              >
                 See Code
               </Card.Link>
             </Card.Footer>
@@ -82,10 +92,13 @@ class CardGroup extends Component {
               src="https://scontent.ffsd3-1.fna.fbcdn.net/v/t1.0-9/115772182_10158278516435792_8509649749366949457_n.jpg?_nc_cat=103&_nc_sid=8bfeb9&_nc_ohc=VQYeTGRgJbMAX-1EveG&_nc_ht=scontent.ffsd3-1.fna&oh=9d13467f22fbf13fbfc95845acc104a7&oe=5F842B5B"
             /> */}
             <Card.Body>
-              <Card.Title>YelpCamp</Card.Title>
+              <Card.Title>
+                <h4>Therme</h4>
+              </Card.Title>
               <Card.Text>
-                YelpCamp is a web application for providing campsite information
-                and reviews. Built Using:
+                Therme is a social networking site for hot spring enthusiasts to
+                connect. Users are able to register, login and logout, post new
+                hot springs, and comment on other user's posts. Built Using:
                 <ul>
                   <li>HTML</li>
                   <li>CSS</li>
@@ -99,8 +112,14 @@ class CardGroup extends Component {
               </Card.Text>
             </Card.Body>
             <Card.Footer>
-              <Card.Link href="https://nameless-shore-35445.herokuapp.com/">
+              <Card.Link class="link" href="https://therme.herokuapp.com/">
                 Visit Project
+              </Card.Link>
+              <Card.Link
+                class="link"
+                href="https://github.com/DangChell/Therme"
+              >
+                See Code
               </Card.Link>
               {/* <Card.Link href="#">See Code</Card.Link> */}
             </Card.Footer>
